@@ -1,7 +1,5 @@
-
 tests/allure-results
 .github
 .idea!/tests/allure-results/
 .idea
 tests/__pycache__
-

@@ -23,3 +23,4 @@ def test_dynamic_labels():
 @allure.link("https://github.com", name="Testing")
 def test_decorator_labels():
     pass
+

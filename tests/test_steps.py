@@ -21,3 +21,4 @@ def test_dynamic_steps():
     with allure.step("Проверяем наличие Issue с номером 87"):
         s(by.partial_text("#87")).should(be.visible)
 
+

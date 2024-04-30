@@ -10,7 +10,6 @@ def test_github_issue():
     open_issues_tab()
     should_be_number('#76')
 
-
 @allure.step('Открытие браузера')
 def open_page():
     browser.open('https://github.com')

@@ -10,3 +10,4 @@ def test_github():
     s(by.link_text("eroshenkoam/allure-example")).click()
     s("#issues-tab").click()
     s(by.partial_text("#76")).should(be.visible)
+
