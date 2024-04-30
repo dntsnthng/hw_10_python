@@ -1,5 +1,5 @@
-# Allure
+
 tests/allure-results
 .github
-# Idea
+/allure
 .idea!/tests/allure-results/
