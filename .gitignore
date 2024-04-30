@@ -4,3 +4,4 @@ tests/allure-results
 .idea!/tests/allure-results/
 .idea
 tests/__pycache__
+
